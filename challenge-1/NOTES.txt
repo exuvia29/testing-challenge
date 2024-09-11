@@ -1,0 +1,1 @@
+Please generated your own .log file, cause if you using mine it will return 0 values. This is because i set the date using realtime on host machine and not time based on my log.service
